@@ -24,7 +24,7 @@ this.d= game.input.keyboard.addKey(Phaser.Keyboard.D);
 
 
 				star=game.add.sprite(0,	0,	'star');
-				//	"Włączamy"	prawa	fizyki
+				//	"Włączamy"	prawa	fizyki XD
 				game.physics.startSystem(Phaser.Physics.ARCADE);	
 				//	Dodajemy	tło
 				game.add.sprite(0,	0,	'sky');	
